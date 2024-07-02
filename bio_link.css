@@ -13,6 +13,9 @@ body {
     font-family: 'Outfit', sans-serif;
     padding-top: 4rem;
     gap: 1rem;
+    background-attachment: fixed;
+    background-size: cover;	
+    background-position: center;
 }
 
 .bg-text-animation {
